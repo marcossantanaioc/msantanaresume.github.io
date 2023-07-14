@@ -1,7 +1,26 @@
+html, body {
+
+    height:1122px;
+    width:794px;
+    margin: 0;
+    padding: 0;
+    page-break-after: always;
+    max-height: 1122px;
+    max-width: 794px;
+}
+
+.container {
+    font-family: 'Be Vietnam Pro', sans-serif;
+    color: #545454;
+    width: inherit;
+    height: inherit;
+    margin-left: 50%;
+    margin-right: 50%
+}
 
 .presentation {
     text-align: center;
-    color: white;
+    width: 65rem;
     font-size: 28pt
 }
 
@@ -10,26 +29,36 @@
     color: #CD104D
 }
 
-.work-information {    border: 5px solid black;
-    color: white;
-    width: 60%
+.work-information {
+    background-color: #FFFFFF;
+    width: 75%;
+    float: left;
+    border: 5px solid black;
+
 
 }
-/* 
+
 .contact {
     border: 5px solid black;
-    color: white;
-    width: 60%
-}
+    width: 100%}
+
 
 .experience {
     border: 5px solid black;
-    color: white;
-    width: 60%
+    width: 100%
 }
 
 .publications {
     border: 5px solid black;
-    color: white;
-    width: 60%
-} */
+    width: 100%
+}
+
+.skills-info {
+    margin-top: 100px;
+    background-color: #6894AF;
+    width: 50%;
+    margin-left: 700px;
+    border: 5px solid black;
+    color: #F8F8F8;
+
+}
