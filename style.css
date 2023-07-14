@@ -53,10 +53,14 @@ html, body {
 
 .skills-info {
     margin-top: 100px;
+    padding-top: 5px;
+    padding-bottom: 45px;
     background-color: #6894AF;
-    width: 50%;
+    width: 51%;
     margin-left: 700px;
     color: #F8F8F8;
     margin-top: 0;
 
 }
+
+
