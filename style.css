@@ -24,6 +24,7 @@ html, body {
     font-size: 28pt
 }
 
+
 #role {
     font-size: 18pt;
     color: #CD104D
@@ -31,7 +32,7 @@ html, body {
 
 .work-information {
     background-color: #FFFFFF;
-    width: 75%;
+    width: 85%;
     float: left;
     border: 5px solid black;
 
@@ -41,6 +42,7 @@ html, body {
 .contact {
     border: 5px solid black;
     width: 100%}
+
 
 
 .experience {
@@ -61,6 +63,14 @@ html, body {
     border: 5px solid black;
     color: #F8F8F8;
     margin-top: 0;
-    height: 100%
 
+}
+
+.skills {
+    border: 5px solid black
+}
+
+.education {
+    margin-top: 50px;
+    border: 5px solid black
 }
