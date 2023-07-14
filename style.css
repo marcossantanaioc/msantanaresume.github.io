@@ -1,3 +1,4 @@
+
 .presentation {
     text-align: center;
     color: white;
@@ -8,3 +9,27 @@
     font-size: 18pt;
     color: #CD104D
 }
+
+.work-information {    border: 5px solid black;
+    color: white;
+    width: 60%
+
+}
+/* 
+.contact {
+    border: 5px solid black;
+    color: white;
+    width: 60%
+}
+
+.experience {
+    border: 5px solid black;
+    color: white;
+    width: 60%
+}
+
+.publications {
+    border: 5px solid black;
+    color: white;
+    width: 60%
+} */
