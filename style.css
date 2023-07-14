@@ -34,24 +34,20 @@ html, body {
     background-color: #FFFFFF;
     width: 85%;
     float: left;
-    border: 5px solid black;
-
-
 }
 
 .contact {
-    border: 5px solid black;
     width: 100%}
 
 
 
 .experience {
-    border: 5px solid black;
     width: 100%
 }
 
 .publications {
-    border: 5px solid black;
+    padding-top: 5px;
+    font-size: 18pt;
     width: 100%
 }
 
@@ -60,17 +56,7 @@ html, body {
     background-color: #6894AF;
     width: 50%;
     margin-left: 700px;
-    border: 5px solid black;
     color: #F8F8F8;
     margin-top: 0;
 
-}
-
-.skills {
-    border: 5px solid black
-}
-
-.education {
-    margin-top: 50px;
-    border: 5px solid black
 }
